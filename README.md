@@ -13,6 +13,7 @@ from political accounts move prediction markets fast, so push beats polling here
 Background + comparison of the approaches:
 https://1322.io/blog/truth-social-api-guide
 Platform page: https://1322.io/platforms/truth
+Tracking one high-signal account (e.g. Trump) in real time: https://1322.io/track/trump-truth-social
 
 ## run
 
