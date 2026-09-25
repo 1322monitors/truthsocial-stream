@@ -35,6 +35,6 @@ headline within seconds is a much stronger signal than one alone.
 
 ## Related
 
-- [1322-python](https://github.com/SisoSol/1322-python) - async Python client for every 1322 feed
-- [prediction-market-router](https://github.com/SisoSol/prediction-market-router) - keyword match + webhook router
-- [social-monitor-examples/truthsocial](https://github.com/SisoSol/social-monitor-examples/tree/main/truthsocial) - the minimal consumer
+- [1322-python](https://github.com/1322monitors/1322-python) - async Python client for every 1322 feed
+- [prediction-market-router](https://github.com/1322monitors/prediction-market-router) - keyword match + webhook router
+- [social-monitor-examples/truthsocial](https://github.com/1322monitors/social-monitor-examples/tree/main/truthsocial) - the minimal consumer
